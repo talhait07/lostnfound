@@ -2,3 +2,15 @@ node_modules/*
 dist/bundle.js
 dist/bundle.css
 .idea/*
+appConfig.js
+
+bower_components
+*.log
+
+dist/*.css
+dist/*.js
+dist/*.woff
+dist/*.woff2
+dist/*.ttf
+dist/*.svg
+dist/*.eot

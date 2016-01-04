@@ -1,0 +1,21 @@
+{
+  "name": "lostnfound",
+  "description": "",
+  "main": "src/index.jsx",
+  "authors": [
+    "Mostofa Monsur<monsur.it07@gmail.com>"
+  ],
+  "license": "lostnfound",
+  "homepage": "https://github.com/talhait07/lostnfound.git",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  }
+}
