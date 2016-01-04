@@ -11,7 +11,7 @@ export const PureAuth = React.createClass({
                 <div className="panel panel-info">
                     <div className="panel-heading">
                         <h4 className="panel-title">Welcome To</h4>
-                        <img src="images/batman.png" alt="Insightpool"/>
+                        <img src="images/batman.png" alt="LostNFound"/>
                     </div>
                     <div className="panel-body">
                         <form role="form">

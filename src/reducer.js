@@ -4,5 +4,6 @@
 import {Map} from 'immutable';
 import {combineReducers} from 'redux';
 import app from './reducers/application'
+import createNew from './reducers/createNew'
 
-export default combineReducers({app})
+export default combineReducers({app, createNew})

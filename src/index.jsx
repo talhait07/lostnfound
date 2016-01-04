@@ -1,3 +1,5 @@
+//this will be worked as stores
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {Router} from 'react-router';
